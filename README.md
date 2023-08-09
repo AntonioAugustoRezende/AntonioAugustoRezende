@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<h2> Olá, meu nome é Antonio Augusto de Rezende Filho, seja bem-vindo ao meu perfil!</h2>
+<h2>Olá, meu nome é Antonio Augusto de Rezende Filho, seja bem-vindo ao meu perfil!</h2>
 
 <h3>:man_technologist: Sou Desenvolvedor Fullstack com conhecimentos em:</h3>
 
