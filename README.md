@@ -33,14 +33,14 @@
   <img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" />
 </div>
 <hr>
-<h3>:livros: Estou estudando:</h3>
+<h3>📚 Estou estudando:</h3>
 <div>
   <img width="40" height="40" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" />
   <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />
   <img width="40" height="40" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
 </div>
 <hr>
-<h3>:balão_de_fala: Vamos conversar!</h3>
+<h3>💬 Vamos conversar!</h3>
 <div>
   <a href="https://www.linkedin.com/in/antonioaugustoderezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:antoniorezendetj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -48,7 +48,7 @@
 <hr>
 <div>
 <a href="https://github.com/AntonioAugustoRezende">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioAugustoRezende&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioAugustoRezende&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAugustoRezende&layout=compact&langs_count=16&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
