@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 
-
 <h2> Olá, meu nome é Antonio Augusto de Rezende Filho, seja bem-vindo ao meu perfil!</h2>
+
 <h3>:man_technologist: Sou Desenvolvedor Fullstack com conhecimentos em:</h3>
+
 <h4>Front end: </h4>
+
 <div style="display: inline_block">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
@@ -47,20 +49,7 @@
 <div>
 <a href="https://github.com/AntonioAugustoRezende">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaHaddadSerejo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaHaddadSerejo&layout=compact&langs_count=16&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAugustoRezende&layout=compact&langs_count=16&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<!--
-**AntonioAugustoRezende/AntonioAugustoRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
